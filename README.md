@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Smith Pereira and this is my github account for my work at [trilogy innovations](https://github.com/trilogy-group)
-- 👀 Follow my personal account [@CapriciousRebel](https://github.com/CapriciousRebel)
+- Hi, I’m Smith Pereira and this is my github account for my work at [trilogy innovations](https://github.com/trilogy-group)
+- Follow my personal account [@CapriciousRebel](https://github.com/CapriciousRebel)
 
 
 ### Connect with me:
