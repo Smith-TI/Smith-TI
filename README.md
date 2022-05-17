@@ -9,13 +9,25 @@
 - [Instagram](https://www.instagram.com/capricious_rebel/)
 
 <br />
+
 [![Smith-TI's github stats](https://github-readme-stats.vercel.app/api?username=Smith-TI&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+
 [![CapriciousRebel's github stats](https://github-readme-stats.vercel.app/api?username=CapriciousRebel&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 
 My top languages on this account:
+
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smith-TI&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<br />
+
 My top languages on @CapriciousRebel:
+
+<br />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CapriciousRebel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
